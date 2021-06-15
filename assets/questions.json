@@ -1,0 +1,69 @@
+{
+  "questions": [
+    {
+      "questionText": "De las siguientes palabras señala cuál de ellas está escrita correctamente:",
+      "answers": [
+        {
+          "text": "Jiba",
+          "score": 0
+        },
+        {
+          "text": "Jiva",
+          "score": 0
+        },
+        {
+          "text": "Giba",
+          "score": 10
+        },
+        {
+          "text": "Giva",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "questionText": "Con la llegada al trono de Carlos I, se instaura en España la monarquía de los Asturias,¿Qué nombre recibía la rama hispana de la casa europea?",
+
+
+      "answers": [
+        {
+          "text": "Saboya",
+          "score": 0
+        },
+        {
+          "text": "Estuardo",
+          "score": 0
+        },
+        {
+          "text": "Borbón",
+          "score": 0
+        },
+        {
+          "text": "Habsburgo",
+          "score": 10
+        }
+      ]
+    },
+    {
+      "questionText": "¿Cuáles fueron las dos ciudades más importantes durante el antiguo Egipto?",
+      "answers": [
+        {
+          "text": "Menfis y Roma",
+          "score": 0
+        },
+        {
+          "text": "Antenas y Tebas",
+          "score": 0
+        },
+        {
+          "text": "Menfis y Tebas",
+          "score": 10
+        },
+        {
+          "text": "Persépolis y Babilonia",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
